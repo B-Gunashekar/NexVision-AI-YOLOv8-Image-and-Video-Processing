@@ -16,7 +16,7 @@ NexVision AI is an advanced Computer Vision Engine powered by **PyTorch & Ultral
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KOTAHARSHA25/YOLOv8-Image-and-Video-Processing-Application.git
+   git clone https://github.com/B-Gunashekar/YOLOv8-Image-and-Video-Processing-Application.git
    cd YOLOv8-Image-and-Video-Processing-Application
    ```
 2. Create a virtual environment and activate it:
